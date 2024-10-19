@@ -33,3 +33,5 @@ wcwidth==0.2.5
 Werkzeug==2.2.2
 wtf-peewee==3.0.2
 WTForms==3.0.1
+
+argon2-cffi==23.1.0
